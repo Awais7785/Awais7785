@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awais7785
-- 👀 I’m interested in learning programming. 
-- 🌱 I’m currently learning Unity
+- 👀 I’m working as a software developer. I have a good knowledge of programming languages c++, c# java, and python. 
+- 🌱 I’m currently learning Mearn Stack Development. 
 - 📫 How to reach me awaisali7785@gmail.com
 
 <!---
